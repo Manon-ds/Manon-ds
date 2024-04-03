@@ -1,8 +1,7 @@
 <h4 align="center"><samp> Hi there 👋🏼 welcome to my Github! I'm a Software Engineer and Professional Cat Whisperer. I like to create stuff and am contributing to Open Source. </samp></h4>
 
 <p align="center">
-  <img width="250" src="./assets/Animation - 1712142488212 (1).gif">
-</p>
+  <img width="250" src="./assets/transparent.gif"
 
 <p align="center"><samp>
 Check out my repos ⬇️  
